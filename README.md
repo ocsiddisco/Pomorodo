@@ -1,7 +1,7 @@
 # Advent Calendar Day 1 - Pomodoro Timer
 
 This project is part of an advent calendar proposed by https://store.selfteach.me.
-The HTML and CSS files are provided and I was in charge of coding the javascript file.
+The HTML and CSS files are provided and I was in charge of coding the javascript part.
 
 I added the following options:
 
